@@ -5,4 +5,4 @@
 > This is simple small project...
 
 ### LINK TO MY PROJECT SITE
-My Project [slider](
+My Project [slider](https://surya-prakash-s-hub.github.io/slider-ping).
